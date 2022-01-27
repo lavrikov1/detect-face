@@ -5,6 +5,7 @@ import numpy
 import sqlite3
 import face_recognition
 
+
 red = "\033[1;31m"
 gr = "\033[1;32m"
 cy = "\033[1;36m"
